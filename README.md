@@ -60,7 +60,9 @@ If you'd like to add features or fix bugs, follow these steps:
 1. Fork the repository.
 2. Create a new branch.
 3. Make your changes.
-4. Commit and push your branch.
-5. Open a pull request.
+5. Commit and push your branch.
+6. Open a pull request.
 
 Suggestions and improvements are appreciated!
+
+![image](https://github.com/user-attachments/assets/0e351b6b-0cd8-4be5-8b88-56abbf6f9fbc)
